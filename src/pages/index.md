@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Ethan Felson
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -13,11 +13,13 @@ subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
   src: /img/businesshero2.png
-  alt: Hero Image for home page
+  alt: Ethan Felson
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: Ethan Felson has a long career bridging divides between
+  different communities. For more than 25 years he worked in Jewish community
+  relations helping to represent the Jewish community and building important
+  interfaith networks, first in Connecticut and then nationally.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +34,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Ethan Felson has a long career bridging divides between different communities. For more than 25 years he worked in Jewish community relations helping to represent the Jewish community and building important interfaith networks, first in Connecticut and then nationally. His efforts brought together leaders from the Jewish, Christian, Muslim, Hindu, Sikh, Buddhist, Ba'hai, and other communities. He spearheaded numerous trips to Israel with religious leaders including a groundbreaking Interfaith Partners for Peace program which paired rabbis and non-Jewish clergy from cities for a one-week trip to meet with Israelis and Palestinians and study sacred texts, tour holy sites, and engage in deep and meaningful dialogue. He attended many Jewish and Christian denomination conventions, helping delegates to reach greater understanding of one another's perspectives. He has spoken hundreds of times in settings about this work - and has been published widely in journals and other periodicals as well as in chapters he wrote for several books.
