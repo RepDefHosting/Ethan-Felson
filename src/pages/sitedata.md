@@ -1,26 +1,26 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Ethan Felson
+jobTitle: Executive Director
+location: Quechee, VT
 profileImage:
-  src: /img/default-profile-male.png
+  src: /img/ethan-felson-advocates-for-equality-and-justice.jpeg
   alt: Client's headshot
-siteUrl: https://url.com
+siteUrl: https://www.aboutethanfelson.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
